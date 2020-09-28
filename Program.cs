@@ -10,6 +10,7 @@ namespace Console_Math_1
     {
         static void Main(string[] args)
         {
+            //version 2 from PC
             Console.WriteLine("Привет, Алена, давай посчитаем!");
             string good = "Алена молодец!!!";
             string bad = "!!! Ошибка, правильный ответ: ";
